@@ -1,5 +1,7 @@
 # Node random color genrator project
 
+- We need to create an application that is command line(terminal) base.
+
 ## Task breakdown
 
 - [] first I need to initialize node on my VS terminal
