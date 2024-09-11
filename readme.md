@@ -12,4 +12,4 @@
 
 - [] create a function that can capture user input and assign it to variable
 
-- []
+- [] print a color to the terminal, a random color each time you run the node file
